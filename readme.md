@@ -32,4 +32,4 @@ This project focuses on [briefly describe what your COBOL program does, e.g., "a
 ## Developer
 
 * [Paul Ryu]
-* [Your GitHub Profile Link, e.g., github.com/Paul-COBOL-Dev]
+* [http://github.com/Paul-COBOL-Dev]
